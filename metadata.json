@@ -1,0 +1,6 @@
+{
+  "name": "Eko Misi - Roda Digital Ekosistem & Sains",
+  "description": "Media pembelajaran interaktif literasi sains SD untuk mengeksplorasi ekosistem sawah, laut, dan gurun dengan roda digital putar manual, dongeng ekologis, dan misi rantai makanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
